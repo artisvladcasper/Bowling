@@ -11,6 +11,7 @@ public class BowlingGame {
 		frames = new Frame[10];
 		frames[0] = new Frame();
 		firstRollInFrame = true;
+		System.out.println("Wadwdawdaw");
 	}
 
 	public void roll(int pins) throws Exception {
